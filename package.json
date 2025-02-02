@@ -1,0 +1,21 @@
+{
+  "name": "ai-agent1",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.12.0"
+  },
+  "dependencies": {
+    "openai": "^4.81.0",
+    "readline-sync": "^1.4.10",
+    "undici-types": "^6.20.0"
+  },
+  "keywords": [],
+  "description": ""
+}
